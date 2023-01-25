@@ -1,0 +1,32 @@
+.divFilters
+{
+	position: absolute;
+	top: 77px;
+	height: 110px;
+	width: 350px;
+	display: none;
+}
+
+.turnover
+{
+    font-family: Arial, Tahoma, Verdana, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #1A841A;    
+}
+
+.maroon
+{
+    font-family: Arial, Tahoma, Verdana, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #8a0808;
+}
+
+.drawbets
+{
+    font-family: Arial, Tahoma, Verdana, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    color: #000000;    
+}
